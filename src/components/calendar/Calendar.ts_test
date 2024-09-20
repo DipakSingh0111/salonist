@@ -1,0 +1,32 @@
+// import moment from 'moment';
+// import React, { useState } from 'react';
+// import HorizontalStripDatePicker from 'react-horizontal-strip-datepicker';
+// import 'react-horizontal-strip-datepicker/dist/ReactHorizontalDatePicker.css';
+
+// const Calendar: React.FC = () => {
+//     const [selectedDate, setSelectedDate] = useState<Date | null>(new Date());
+
+//     const onSelectedDay = (date: Date) => {
+//         console.log(date);
+//         const selectDate = moment(date).format("YYYY-MM-DD");
+//         console.log(selectDate)
+//         setSelectedDate(date);
+//         // console.log('Selected date:', date);
+//     };
+
+//     return (
+//         <div>
+//             <h1>Select a Date</h1>
+//             <HorizontalStripDatePicker
+             
+//                 selectedDay={onSelectedDay}
+//                 enableScroll={true}
+//                 enableDays={364}
+//                 enableDaysBefore={0}
+//             />
+//             {selectedDate && <p>You selected: {selectedDate.toDateString()}</p>}
+//         </div>
+//     );
+// };
+
+// export default Calendar;

@@ -1,0 +1,150 @@
+{
+  "memberships": [
+    {
+      "Membership": {
+        "id": "20932",
+        "domainId": "14449",
+        "name": "Membership_10%off",
+        "description": "",
+        "price": "",
+        "days": "10000.00",
+        "percentage": "10.00",
+        "deleted": "No",
+        "created": "2024-06-22",
+        "modified": "2024-06-22",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "0",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20204",
+        "domainId": "14449",
+        "name": "Lagom Hair Lounge",
+        "description": "As a member, you will have access to a comprehensive selection of haircare services at our Salon, all at a discounted rate",
+        "price": "400.00",
+        "days": "350.00",
+        "percentage": "12.50",
+        "deleted": "No",
+        "created": "2024-06-05",
+        "modified": "2024-06-12",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20199",
+        "domainId": "14449",
+        "name": "glowup",
+        "description": "",
+        "price": "200.00",
+        "days": "100.00",
+        "percentage": "50.00",
+        "deleted": "No",
+        "created": "2024-06-04",
+        "modified": "2024-06-12",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20145",
+        "domainId": "14449",
+        "name": "Member ship_10k",
+        "description": "",
+        "price": "10000.00",
+        "days": "10000.00",
+        "percentage": "0.00",
+        "deleted": "No",
+        "created": "2024-05-30",
+        "modified": "2024-05-30",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20144",
+        "domainId": "14449",
+        "name": "Membership_10k2",
+        "description": "",
+        "price": "13000.00",
+        "days": "10000.00",
+        "percentage": "23.08",
+        "deleted": "No",
+        "created": "2024-05-30",
+        "modified": "2024-05-30",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20143",
+        "domainId": "14449",
+        "name": "Membership_10",
+        "description": "",
+        "price": "11000.00",
+        "days": "10000.00",
+        "percentage": "9.09",
+        "deleted": "No",
+        "created": "2024-05-30",
+        "modified": "2024-05-30",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "20037",
+        "domainId": "14449",
+        "name": "Membership_10k1",
+        "description": "",
+        "price": "12000.00",
+        "days": "10000.00",
+        "percentage": "16.67",
+        "deleted": "No",
+        "created": "2024-05-21",
+        "modified": "2024-05-21",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    },
+    {
+      "Membership": {
+        "id": "19783",
+        "domainId": "14449",
+        "name": "Membership_5k",
+        "description": "",
+        "price": "6000.00",
+        "days": "4237.00",
+        "percentage": "29.38",
+        "deleted": "No",
+        "created": "2024-04-25",
+        "modified": "2024-05-01",
+        "show_in_app": "0",
+        "show_online": "1",
+        "type": "1",
+        "expire_days": "365"
+      }
+    }
+  ],
+  "status": "success",
+  "message": "Memberships Found."
+}

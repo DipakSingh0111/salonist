@@ -1,0 +1,102 @@
+{
+  "customers": [
+    {
+      "label": "Neeraj - 9217000082",
+      "email": "abc@yopmail.com",
+      "phone": "7834668635",
+      "id": "2473632",
+      "value": "Neeraj"
+    },
+    {
+      "label": "nayeon - 1",
+      "email": "abc@yopmail.com",
+      "id": "2473647",
+      "value": "nayeon"
+    },
+    {
+      "label": "Jeongyeon - 2",
+      "phone": "7834668635",
+      "id": "2473898",
+      "value": "Jeongyeon"
+    },
+    {
+      "label": "momo - 3",
+      "email": "xyz@yopmail.com",
+      "phone": "78348623989",
+      "id": "2474031",
+      "value": "momo"
+    },
+    {
+      "label": "test - 7658811981",
+      "email": "xyz@yopmail.com",
+      "id": "2481712",
+      "value": "test"
+    },
+    {
+      "label": "Sana - 4",
+      "phone": "78348623989",
+      "id": "2481897",
+      "value": "Sana"
+    },
+    {
+      "label": "Jihyo - 5",
+      "email": "jone@yopmail.com",
+      "phone": "88987459587",
+      "id": "2482193",
+      "value": "Jihyo"
+    },
+    {
+      "label": "mina - 6",
+      "email": "jone@yopmail.com",
+      "id": "2500691",
+      "value": "mina"
+    },
+    {
+      "label": "test - 8544859108",
+      "phone": "88987459587",
+      "id": "2529589",
+      "value": "test"
+    },
+    {
+      "label": "nj - 9646811953",
+      "email": "joy@yopmail.com",
+      "phone": "8898783468",
+      "id": "2725191",
+      "value": "nj"
+    },
+    {
+      "label": "Singapore - 89435582",
+      "email": "joy@yopmail.com",
+      "id": "2783241",
+      "value": "Singapore"
+    },
+    {
+      "label": "Rohit - 9876543210",
+      "phone": "8898783468",
+      "id": "2784849",
+      "value": "Rohit"
+    },
+    {
+      "label": "Ram - 372824",
+      "id": "2803910",
+      "email": "Rahul@yopmail.com",
+      "phone": "8898847497",
+      "value": "Ram"
+    },
+    {
+      "label": "Sham - 2346432",
+      "id": "2803912",
+      "email": "Rahul@yopmail.com",
+      "phone": "8898847497",
+      "value": "Sham"
+    },
+    {
+      "label": "Salonist - 563845",
+      "phone": "8898847497",
+      "id": "2806551",
+      "value": "Salonist"
+    }
+  ],
+  "status": "success",
+  "message": "Customers Found."
+}

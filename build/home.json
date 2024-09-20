@@ -1,0 +1,130 @@
+{
+  "service": [
+    {
+      "id": 121,
+      "image_url": "images/icon1.png",
+      "label": "Appointment Scheduling"
+    },
+    {
+      "id": 122,
+      "image_url": "images/icon2.png",
+      "label": "Payment Processing"
+    },
+    {
+      "id": 123,
+      "image_url": "images/icon3.png",
+      "label": "Client Management"
+    },
+    {
+      "id": 1232,
+      "image_url": "images/icon4.png",
+      "label": "Marketing Promotions"
+    },
+    {
+      "id": 1322,
+      "image_url": "images/icon5.png",
+      "label": "Staff Payroll"
+    },
+    {
+      "id": 243,
+      "image_url": "images/icon6.png",
+      "label": "Inventory Management"
+    },
+    {
+      "id": 512,
+      "image_url": "images/icon7.png",
+      "label": "Point of Sale (POS)"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/salon1.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/beauty-shop.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/makeup.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/massage1.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    }
+  ],
+  "newSalonist": [
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/salon1.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/beauty-shop.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/makeup.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/massage1.jpg",
+      "button": "Hair Salon",
+      "heading": "Alanta Hair & Beauty",
+      "rating": "5.0 (1,245)",
+      "store": "36 Store St, London"
+    }
+  ],
+  "latestBlog": [
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/salon1.jpg",
+      "date": "10 Oct 2023",
+      "heading": "Most popular hair trends for male",
+      "anchor": "Read More"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/bridal.jpg",
+      "date": "10 Oct 2023",
+      "heading": "Most popular hair trends for male",
+      "anchor": "Read More"
+    },
+    {
+      "id": 12,
+      "image_url": "https://salonist.me/front-images/nail.jpg",
+      "date": "10 Oct 2023",
+      "heading": "Most popular hair trends for male",
+      "anchor": "Read More"
+    }
+  ]
+}
